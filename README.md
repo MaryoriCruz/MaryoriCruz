@@ -35,3 +35,16 @@ I believe AI creates real value when it helps people make better decisions, supp
 For me, technology is never the goal.
 
 It's the bridge between a real problem and a real solution.
+
+---
+
+## Problems I've chosen to solve
+
+Every project reflects a problem I believe is worth solving.
+
+| Project | Why it matters |
+|---------|----------------|
+| 🏥 **Women's Health AI** | Helping women better understand their symptoms before seeking professional medical advice. |
+| 🐶 **PetAdopt Predictor** | Supporting animal shelters by predicting adoption times and identifying animals that may need additional attention. |
+| 💧 **Water Accessibility AI** 🏆 | Award-winning AI assistant designed to help vulnerable communities access safe drinking water using locally available resources. |
+| 💬 **ToxicFilter AI** | Creating healthier online communities through AI-powered hate speech detection. |
