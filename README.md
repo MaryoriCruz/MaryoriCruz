@@ -19,3 +19,19 @@ My background in Social Communication taught me that the best solutions begin wi
 Today, I combine that perspective with Artificial Intelligence, Machine Learning and Full Stack Development to build technology that creates measurable impact.
 
 I enjoy working at the intersection of AI, software engineering and product thinking.
+
+---
+
+## My approach
+
+Every meaningful solution starts with understanding.
+
+Before thinking about models, frameworks or architectures, I ask a simple question:
+
+> **What problem are we solving?**
+
+I believe AI creates real value when it helps people make better decisions, supports organizations, improves lives, protects animals or contributes to a more sustainable world.
+
+For me, technology is never the goal.
+
+It's the bridge between a real problem and a real solution.
