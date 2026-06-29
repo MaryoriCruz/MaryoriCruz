@@ -38,13 +38,32 @@ It's the bridge between a real problem and a real solution.
 
 ---
 
-## Problems I've chosen to solve
+## Building solutions for what matters
 
-Every project reflects a problem I believe is worth solving.
+Every project begins with understanding a real-world challenge.
 
-| Project | Why it matters |
-|---------|----------------|
-| 🏥 **Women's Health AI** | Helping women better understand their symptoms before seeking professional medical advice. |
-| 🐶 **PetAdopt Predictor** | Supporting animal shelters by predicting adoption times and identifying animals that may need additional attention. |
-| 💧 **Water Accessibility AI** 🏆 | Award-winning AI assistant designed to help vulnerable communities access safe drinking water using locally available resources. |
-| 💬 **ToxicFilter AI** | Creating healthier online communities through AI-powered hate speech detection. |
+These are the causes I'm currently exploring through AI and Full Stack development.
+
+
+🏥 Healthcare
+
+Helping women better understand their health through AI.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🐶 Animal Welfare
+
+Using predictive models to support animal adoption.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+💧 Humanitarian Aid
+
+Improving access to safe drinking water with AI.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+💬 Digital Well-being
+
+Creating healthier online communities through NLP.
+
