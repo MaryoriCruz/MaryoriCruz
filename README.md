@@ -44,26 +44,33 @@ Every project begins with understanding a real-world challenge.
 
 These are the causes I'm currently exploring through AI and Full Stack development.
 
+### 🏥 Women's Health
 
-🏥 Healthcare
+Helping women better understand their symptoms through AI-powered decision support.
 
-Helping women better understand their health through AI.
+➡️ [Women's Health AI](link)
 
-━━━━━━━━━━━━━━━━━━━━━━
+---
 
-🐶 Animal Welfare
+### 🐶 Animal Adoption
 
-Using predictive models to support animal adoption.
+Predicting adoption times to help shelters prioritize interventions.
 
-━━━━━━━━━━━━━━━━━━━━━━
+➡️ [PetAdopt Predictor](link)
 
-💧 Humanitarian Aid
+---
 
-Improving access to safe drinking water with AI.
+### 💧 Water Accessibility
 
-━━━━━━━━━━━━━━━━━━━━━━
+Award-winning AI assistant that provides personalized water purification guidance.
 
-💬 Digital Well-being
+➡️ [Water Accessibility AI](link)
 
-Creating healthier online communities through NLP.
+---
+
+### 💬 Healthy Digital Communities
+
+Detecting hate speech using NLP to promote respectful online conversations.
+
+➡️ [ToxicFilter AI](link)
 
