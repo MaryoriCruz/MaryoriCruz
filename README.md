@@ -134,4 +134,4 @@ I'm always interested in collaborating on AI products that solve meaningful prob
 
 📍 Madrid, Spain
 
-💼 [LinkedIn](https://www.linkedin.com/in/maryori-cruz/) · [Email](maryori.eguizabal@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/maryori-cruz/) · [Email](mailto:maryori.eguizabal@gmail.com)
