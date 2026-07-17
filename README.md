@@ -1,76 +1,74 @@
 # Building intelligent products for problems that matter.
-
 ### Better tools. Same purpose.
 
 AI without purpose is just noise.
-
 With purpose, it multiplies impact.
 
-I build AI and Full Stack solutions that transform real-world challenges into practical products across healthcare, social impact, animal welfare and sustainability.
+I build AI and Full Stack solutions that turn real problems into products people actually use.
 
 ---
 
 ## Who I am
 
-I'm an AI & Full Stack Developer passionate about building intelligent products that solve meaningful real-world problems.
+AI Engineer & Full Stack Developer.
 
-My background in Social Communication taught me that the best solutions begin with understanding people, not technology.
+I started in Social Communication, where I learned that the best solutions begin with understanding people — not technology.
+Today I bring that same lens to Machine Learning, NLP, LLMs and Full Stack Development.
 
-Today, I combine that perspective with Artificial Intelligence, Machine Learning and Full Stack Development to build technology that creates measurable impact.
-
-I enjoy working at the intersection of AI, software engineering and product thinking.
+Same purpose. Better tools.
 
 ---
 
 ## My approach
 
-Every meaningful solution starts with understanding.
-
-Before thinking about models, frameworks or architectures, I ask a simple question:
+Before models, frameworks or architectures, one question comes first:
 
 > **What problem are we solving?**
 
-I believe AI creates real value when it helps people make better decisions, supports organizations, improves lives, protects animals or contributes to a more sustainable world.
-
-For me, technology is never the goal.
-
-It's the bridge between a real problem and a real solution.
+The best AI isn't the most complex one. It's the one that solves the right problem.
 
 ---
 
-## Building solutions for what matters
+## What I work with
 
-Every project begins with understanding a real-world challenge.
-
-These are the causes I'm currently exploring through AI and Full Stack development.
-
-### 🏥 Women's Health
-
-Helping women better understand their symptoms through AI-powered decision support.
-
-➡️ [Women's Health AI](link)
+`Python` `Go` `JavaScript` `TypeScript` `SQL`
+`Scikit-learn` `XGBoost` `HuggingFace Transformers` `LangChain` `RAG`
+`MLflow` `DagsHub` `Docker` `GitHub Actions`
+`React` `Node.js` `Express` `REST APIs`
 
 ---
 
-### 🐶 Animal Adoption
+## Featured Projects
 
-Predicting adoption times to help shelters prioritize interventions.
+### 🤖 AI Content Generator — Generative AI Application
+Searches, understands and summarizes real-time sources — research papers, financial data — before generating a response.
+**Stack:** Python · LangChain · ChromaDB · Streamlit · Groq API
+➡️ [Repo](link)
 
-➡️ [PetAdopt Predictor](link)
+### 🛡️ ToxicFilter AI — NLP Content Moderation
+Fine-tuned DistilBERT detects toxic comments; a Go/Gin microservice exposes it as a production-ready API.
+**Stack:** Python · HuggingFace Transformers · Go · Docker · MLflow · DagsHub
+➡️ [Repo](link)
+
+### 🏥 Women's Health Classifier
+Identifies urinary incontinence type from self-reported symptoms — making a widely underdiagnosed condition easier to understand.
+**Stack:** Python · Scikit-learn · Streamlit · Docker
+➡️ [Repo](link)
+
+### 💧 Water Accessibility AI 🏆
+Award-winning AI assistant delivering personalized water purification guidance — built in a 24h hackathon.
+**Stack:** *(completar stack)*
+➡️ [Repo](link)
+
+### 🐶 PetAdopt Predictor
+Estimates shelter animal adoption time, helping teams prioritize resources.
+**Stack:** Python · XGBoost · Scikit-learn · Docker Compose
+➡️ [Repo](link)
 
 ---
 
-### 💧 Water Accessibility
+## Let's connect
 
-Award-winning AI assistant that provides personalized water purification guidance.
+Looking for opportunities to build AI products that solve real problems.
 
-➡️ [Water Accessibility AI](link)
-
----
-
-### 💬 Healthy Digital Communities
-
-Detecting hate speech using NLP to promote respectful online conversations.
-
-➡️ [ToxicFilter AI](link)
-
+[LinkedIn](https://www.linkedin.com/in/maryori-cruz/) · [Email](maryori.eguizabal@gmail.com)
