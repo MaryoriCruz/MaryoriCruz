@@ -1,76 +1,137 @@
 # Building intelligent products for problems that matter.
+
 ### Better tools. Same purpose.
 
-AI without purpose is just noise.
-With purpose, it multiplies impact.
+I'm an AI Engineer and Full Stack Developer who enjoys building end-to-end AI products that transform complex problems into useful applications.
 
-I build AI and Full Stack solutions that turn real problems into products people actually use.
+From data and models to APIs, deployment and user experience, I build solutions that people can actually use.
 
----
+## About Me
 
-## Who I am
+Before becoming an AI Engineer, I worked in Social Communication.
 
-AI Engineer & Full Stack Developer.
+That experience shaped the way I approach technology today: every successful solution starts by understanding people before writing a single line of code.
 
-I started in Social Communication, where I learned that the best solutions begin with understanding people — not technology.
-Today I bring that same lens to Machine Learning, NLP, LLMs and Full Stack Development.
+Now I apply that same mindset to Artificial Intelligence, Machine Learning, NLP, LLM-powered applications and Full Stack Development.
 
-Same purpose. Better tools.
+I enjoy turning ideas into production-ready products that solve meaningful problems.
 
----
+**Same purpose. Better tools.**
 
-## My approach
+## Engineering Philosophy
 
-Before models, frameworks or architectures, one question comes first:
+Every project starts with one question.
 
 > **What problem are we solving?**
 
-The best AI isn't the most complex one. It's the one that solves the right problem.
+That question drives every technical decision that follows.
 
----
+I believe the best AI products are not defined by the complexity of their models, but by the value they create for people.
 
-## What I work with
+## Tech Stack
 
-`Python` `Go` `JavaScript` `TypeScript` `SQL`
-`Scikit-learn` `XGBoost` `HuggingFace Transformers` `LangChain` `RAG`
-`MLflow` `DagsHub` `Docker` `GitHub Actions`
-`React` `Node.js` `Express` `REST APIs`
+### Languages
+Python · Go · JavaScript · TypeScript · SQL
 
----
+### Artificial Intelligence
+Machine Learning · Deep Learning · NLP · LLMs · RAG
 
-## Featured Projects
+### Frameworks & Libraries
+Scikit-learn · TensorFlow · Hugging Face · LangChain · XGBoost
+
+### MLOps
+Docker · MLflow · DagsHub · GitHub Actions
+
+### Backend
+Node.js · Express · FastAPI · REST APIs
+
+### Frontend
+React · Tailwind CSS 
+
+## Featured AI Products
 
 ### 🤖 AI Content Generator — Generative AI Application
-Searches, understands and summarizes real-time sources — research papers, financial data — before generating a response.
-**Stack:** Python · LangChain · ChromaDB · Streamlit · Groq API
-➡️ [Repo](link)
 
-### 🛡️ ToxicFilter AI — NLP Content Moderation
-Fine-tuned DistilBERT detects toxic comments; a Go/Gin microservice exposes it as a production-ready API.
+> **Turning information overload into useful knowledge.**
 
-**Stack:** Python · HuggingFace Transformers · Go · Docker · MLflow · DagsHub
+An end-to-end Retrieval-Augmented Generation (RAG) application that retrieves, understands and synthesizes information from trusted real-time sources before generating grounded responses.
 
-➡️ [Repo](link)
+**Tech Stack**
 
-### 🏥 Women's Health Classifier
-Identifies urinary incontinence type from self-reported symptoms — making a widely underdiagnosed condition easier to understand.
-**Stack:** Python · Scikit-learn · Streamlit · Docker
-➡️ [Repo](link)
+Python · LangChain · ChromaDB · Streamlit · Groq API · Unsplash API
 
-### 💧 Water Accessibility AI 🏆
-Award-winning AI assistant delivering personalized water purification guidance — built in a 24h hackathon.
-**Stack:** *(completar stack)*
-➡️ [Repo](link)
-
-### 🐶 PetAdopt Predictor
-Estimates shelter animal adoption time, helping teams prioritize resources.
-**Stack:** Python · XGBoost · Scikit-learn · Docker Compose
-➡️ [Repo](link)
+🌐 [Live Demo](link) · 📂 [Repository](link) · 📖 [Documentation](link)
 
 ---
 
-## Let's connect
+### 🛡️ ToxicFilter AI — NLP Content Moderation
 
-Looking for opportunities to build AI products that solve real problems.
+> **Helping online communities become safer through AI-powered moderation.**
 
-[LinkedIn](https://www.linkedin.com/in/maryori-cruz/) · [Email](maryori.eguizabal@gmail.com)
+A production-ready NLP application that detects toxic comments using a fine-tuned DistilBERT model, exposed through a Go microservice with reproducible MLOps workflows.
+
+**Tech Stack**
+
+Python · Hugging Face Transformers · Go · Gin · Docker · MLflow · DagsHub
+
+🌐 [Live Demo](link) · 📂 [Repository](link) · 📖 [Documentation](link)
+
+---
+
+### 🏥 Women's Health Classifier
+
+> **Supporting earlier understanding of an underdiagnosed health condition.**
+
+A Machine Learning application that predicts urinary incontinence type from patient-reported symptoms, transforming healthcare data into an accessible clinical decision support tool.
+
+**Tech Stack**
+
+Python · Scikit-learn · Streamlit · Docker · Supabase
+
+🌐 [Live Demo](link) · 📂 [Repository](link) · 📖 [Documentation](link)
+
+---
+
+### 💧 Water Accessibility AI 🏆
+
+> **Making clean water guidance accessible where it matters most.**
+
+An award-winning AI assistant developed during a 24-hour hackathon that generates personalized low-cost water purification plans using locally available resources.
+
+**Tech Stack**
+
+Python · Streamlit · LLM · Prompt Engineering *(update with final stack)*
+
+🌐 [Live Demo](link) · 📂 [Repository](link) · 📖 [Documentation](link)
+
+---
+
+### 🐶 PetAdopt Predictor
+
+> **Helping animal shelters make better adoption decisions through Machine Learning.**
+
+A predictive Machine Learning application that estimates shelter adoption time, enabling organizations to prioritize resources and improve adoption strategies.
+
+**Tech Stack**
+
+Python · XGBoost · Scikit-learn · Streamlit · Docker Compose · pytest
+
+🌐 [Live Demo](link) · 📂 [Repository](link) · 📖 [Documentation](link)
+
+## Current Focus
+
+I'm currently building and learning about
+
+- AI Agents
+- Production AI Systems
+- MLOps
+- LLM Applications
+- AI Product Engineering
+
+## Let's Connect
+
+I'm always interested in collaborating on AI products that solve meaningful problems.
+
+📍 Madrid, Spain
+
+💼 [LinkedIn](https://www.linkedin.com/in/maryori-cruz/) · [Email](maryori.eguizabal@gmail.com)
