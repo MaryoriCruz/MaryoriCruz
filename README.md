@@ -133,5 +133,4 @@ I'm currently building and learning about
 I'm always interested in collaborating on AI products that solve meaningful problems.
 
 📍 Madrid, Spain
-
 💼 [LinkedIn](https://www.linkedin.com/in/maryori-cruz/) · [Email](mailto:maryori.eguizabal@gmail.com)
