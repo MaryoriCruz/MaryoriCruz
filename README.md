@@ -47,7 +47,9 @@ Searches, understands and summarizes real-time sources — research papers, fina
 
 ### 🛡️ ToxicFilter AI — NLP Content Moderation
 Fine-tuned DistilBERT detects toxic comments; a Go/Gin microservice exposes it as a production-ready API.
+
 **Stack:** Python · HuggingFace Transformers · Go · Docker · MLflow · DagsHub
+
 ➡️ [Repo](link)
 
 ### 🏥 Women's Health Classifier
