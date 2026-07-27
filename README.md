@@ -88,7 +88,7 @@ A Machine Learning application that predicts urinary incontinence type from pati
 
 Python · Scikit-learn · Streamlit · Docker · Supabase
 
-🌐 [Live Demo](link) · 📂 [Repository](link) · 📖 [Documentation](link)
+🌐 [Live Demo](https://proyecto7equipo3multiclase-pqbdwkrhnxuxeyignhwayd.streamlit.app/) · 📂 [Repository](https://github.com/MaryoriCruz/Proyecto7_Equipo3_Multiclase) · 📖 [Documentation](https://github.com/MaryoriCruz/Proyecto7_Equipo3_Multiclase/tree/main/docs)
 
 ---
 
