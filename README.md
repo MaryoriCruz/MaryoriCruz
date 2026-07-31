@@ -60,7 +60,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that retrieves, u
 
 Python · LangChain · ChromaDB · Streamlit · Groq API · Unsplash API
 
-🌐 [Live Demo](link) · 📂 [Repository](link) · 📖 [Documentation](link)
+🌐 [Live Demo](https://ai-content-generator-aphfmusyp8wrqtdgpvuhbp.streamlit.app/) · 📂 [Repository](link) · 📖 [Documentation](link)
 
 ---
 
