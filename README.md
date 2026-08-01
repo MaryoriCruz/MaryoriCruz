@@ -46,9 +46,22 @@ Docker · MLflow · DagsHub · GitHub Actions
 Node.js · Express · FastAPI · REST APIs
 
 ### Frontend
-React · Tailwind CSS 
+React · Tailwind CSS
 
-## Featured AI Products
+## 🏆 Selected Work
+
+### 💧 Water Accessibility AI
+**Winner — Social Good Hackathon**
+
+Built and shipped a working AI assistant in 24 hours: given a user's location and available resources, it generates a personalized water purification plan. Validated with real-world partners during the event.
+
+**Tech Stack**
+
+Python · Streamlit · LLM · Prompt Engineering *(update with final stack)*
+
+🌐 [Live Demo](link) · 📂 [Repository](link)
+
+## ⭐ Featured Projects
 
 ### 🤖 AI Content Generator — Generative AI Application
 
@@ -60,7 +73,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that retrieves, u
 
 Python · LangChain · ChromaDB · Streamlit · Groq API · Unsplash API
 
-🌐 [Live Demo](https://ai-content-generator-aphfmusyp8wrqtdgpvuhbp.streamlit.app/) · 📂 [Repository](https://github.com/MaryoriCruz/ai-content-generator) · 📖 [Documentation](link)
+🌐 [Live Demo](https://ai-content-generator-aphfmusyp8wrqtdgpvuhbp.streamlit.app/) · 📂 [Repository](https://github.com/MaryoriCruz/ai-content-generator)
 
 ---
 
@@ -78,6 +91,20 @@ Python · Hugging Face Transformers · Go · Gin · Docker · MLflow · DagsHub
 
 ---
 
+### 👁️ Brand Detection — Computer Vision
+
+> **Turning hours of video into a clear answer: how much airtime did the brand get?**
+
+A computer vision system that analyzes advertising video footage to detect brand logo appearances, measuring total screen time and appearance percentage automatically.
+
+**Tech Stack**
+
+*(to be completed)*
+
+🌐 [Live Demo](link) · 📂 [Repository](link) · 📖 [Documentation](link)
+
+---
+
 ### 🏥 Women's Health Classifier
 
 > **Supporting earlier understanding of an underdiagnosed health condition.**
@@ -89,34 +116,6 @@ A Machine Learning application that predicts urinary incontinence type from pati
 Python · Scikit-learn · Streamlit · Docker · Supabase
 
 🌐 [Live Demo](https://proyecto7equipo3multiclase-pqbdwkrhnxuxeyignhwayd.streamlit.app/) · 📂 [Repository](https://github.com/MaryoriCruz/Proyecto7_Equipo3_Multiclase) · 📖 [Documentation](https://github.com/MaryoriCruz/Proyecto7_Equipo3_Multiclase/tree/main/docs)
-
----
-
-### 💧 Water Accessibility AI 🏆
-
-> **Making clean water guidance accessible where it matters most.**
-
-An award-winning AI assistant developed during a 24-hour hackathon that generates personalized low-cost water purification plans using locally available resources.
-
-**Tech Stack**
-
-Python · Streamlit · LLM · Prompt Engineering *(update with final stack)*
-
-🌐 [Live Demo](link) · 📂 [Repository](link) · 📖 [Documentation](link)
-
----
-
-### 🐶 PetAdopt Predictor
-
-> **Helping animal shelters make better adoption decisions through Machine Learning.**
-
-A predictive Machine Learning application that estimates shelter adoption time, enabling organizations to prioritize resources and improve adoption strategies.
-
-**Tech Stack**
-
-Python · XGBoost · Scikit-learn · Streamlit · Docker Compose · pytest
-
-🌐 [Live Demo](link) · 📂 [Repository](link) · 📖 [Documentation](link)
 
 ## Current Focus
 
