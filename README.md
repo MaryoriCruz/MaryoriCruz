@@ -87,7 +87,7 @@ A production-ready NLP application that detects toxic comments using a fine-tune
 
 Python · Hugging Face Transformers · Go · Gin · Docker · MLflow · DagsHub
 
-🌐 [Live Demo](link) · 📂 [Repository](link) · 📖 [Documentation](link)
+🌐 [Live Demo](https://npl-frontend-team2.vercel.app/) · 📂 [Repository](https://github.com/MaryoriCruz/ToxicFilter-AI) 
 
 ---
 
